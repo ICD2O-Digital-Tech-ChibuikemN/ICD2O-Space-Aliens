@@ -4,7 +4,7 @@
 
 [![Deploy Pages](https://github.com/ICD2O-Digital-Tech-ChibuikemN/ICD2O-Space-Aliens/workflows/Deploy%20Pages/badge.svg)](https://github.com/ICD2O-Digital-Tech-ChibuikemN/ICD2O-Space-Aliens/actions)
 
-This site can be found at: [[https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>](https://icd2o-digital-tech-chibuikemn.github.io/ICD2O-Space-Aliens/))
+This site can be found at: [[https://icd2o-digital-tech-chibuikemn.github.io/ICD2O-Space-Aliens/](https://https://icd2o-digital-tech-chibuikemn.github.io/ICD2O-Space-Aliens/](https://icd2o-digital-tech-chibuikemn.github.io/ICD2O-Space-Aliens/))
 
 ---
 
